@@ -42,3 +42,33 @@ TCP（Transmission Control Protocol）
 为什么不能两次握手？
 
 SYN Flood 是如何利用 TCP 三次握手的？
+
+
+## 4. 网络安全中的意义
+
+TCP 是网络安全学习的基础。
+
+后续需要重点学习：
+
+- SYN Flood
+- TCP Reset
+- TCP 会话
+- Wireshark 抓包
+- TCP/IP 协议分析
+
+## 5. 我的理解
+
+目前我理解 TCP 三次握手的基本过程：
+
+客户端 → SYN → 服务器
+
+服务器 → SYN + ACK → 客户端
+
+客户端 → ACK → 服务器
+
+## 6. 我的疑问
+
+1. 为什么 TCP 必须三次握手？
+2. 为什么不能两次握手？
+3. SYN Flood 是怎么利用三次握手的？
+4. TCP 和 UDP 有什么区别？
