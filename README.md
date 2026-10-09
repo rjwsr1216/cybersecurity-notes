@@ -42,7 +42,7 @@
 - [13-projects](13-projects/) — 个人项目
 - [14-certifications](14-certifications/) — 证书与考试
 - [15-references](15-references/) — 书籍、课程、论文与参考资料
-
+- 16https://github.com/rjwsr1216/cybersecurity-notes/blob/main/Termux-Learning-Manual.md －Termux 学习工作站使用手册
 ## Study Principles
 
 1. 理解原理，而不是只记命令。
