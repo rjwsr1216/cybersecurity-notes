@@ -43,6 +43,8 @@
 - [14-certifications](14-certifications/) — 证书与考试
 - [15-references](15-references/) — 书籍、课程、论文与参考资料
 - [Termux 学习手册](Termux-Learning-Manual.md)－Termux 学习工作站使用手册
+- [GitHub美观操作手册](GitHub-Markdown-Guide.md)-GitHub美观操作手册
+
 ## Study Principles
 
 1. 理解原理，而不是只记命令。
