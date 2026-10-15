@@ -196,8 +196,8 @@ git push
 
 ## 十四、Termux写代码几个救命的技巧
 
-－nano 里方向键乱码	 pkg install nano  更新一下，或长按键盘切方向键
-－想看刚才写了啥	 cat Main.java 
-－文件太多分不清	 ls  看列表， pwd  看在哪儿
-－删掉整个文件夹	 rm -rf loop （小心别删  ~/ ）
-－手机键盘没 Tab	用 Termux 自带 额外键行（左上三条杠 → 设置 → 开启 Extra keys）
+- nano 里方向键乱码	 pkg install nano  更新一下，或长按键盘切方向键
+- 想看刚才写了啥	 cat Main.java 
+- 文件太多分不清	 ls  看列表， pwd  看在哪儿
+- 删掉整个文件夹	 rm -rf loop （小心别删  ~/ ）
+- 手机键盘没 Tab	用 Termux 自带 额外键行（左上三条杠 → 设置 → 开启 Extra keys）
